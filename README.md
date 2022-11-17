@@ -7,3 +7,5 @@ Let's suppose that the Unicorn is a family business and is owned by 2 owners who
 Your task is to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost business growth.
 
 Google Sheets Analysis and Filtered Data: https://docs.google.com/spreadsheets/d/1Eikkc-gjInvUTDWKVZSewaTgNwDhYXewNLR6kFw_MHQ/edit?usp=sharing
+Tableau Portion: https://public.tableau.com/views/Nov22Capstone-Unicorn/TotalStory?:language=en-US&:display_count=n&:origin=viz_share_link
+Group Tableau StoryBoard: https://public.tableau.com/shared/XP3FFNQWJ?:display_count=n&:origin=viz_share_link
